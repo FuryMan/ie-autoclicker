@@ -1,0 +1,10 @@
+D:\C# Projects\Internet Explorer\Internet Explorer\bin\x86\Debug\iexplore.exe.config
+D:\C# Projects\Internet Explorer\Internet Explorer\bin\x86\Debug\iexplore.exe
+D:\C# Projects\Internet Explorer\Internet Explorer\bin\x86\Debug\iexplore.pdb
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\x86\Debug\Internet_Explorer.Main.resources
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\x86\Debug\Internet_Explorer.Properties.Resources.resources
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\x86\Debug\Internet Explorer.csproj.GenerateResource.Cache
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\x86\Debug\Internet Explorer.csproj.CoreCompileInputs.cache
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\x86\Debug\iexplore.exe
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\x86\Debug\iexplore.pdb
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\x86\Debug\Internet Explorer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\bin\Debug\Internet Explorer.exe.config
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\bin\Debug\Internet Explorer.exe
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\bin\Debug\Internet Explorer.pdb
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\obj\Debug\Internet Explorer.csprojResolveAssemblyReference.cache
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\obj\Debug\Internet_Explorer.Main.resources
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\obj\Debug\Internet_Explorer.Properties.Resources.resources
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\obj\Debug\Internet Explorer.csproj.GenerateResource.Cache
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\obj\Debug\Internet Explorer.csproj.CoreCompileInputs.cache
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\obj\Debug\Internet Explorer.exe
+C:\Users\Aron\AppData\Local\Temporary Projects\Internet Explorer\obj\Debug\Internet Explorer.pdb
+D:\C# Projects\Internet Explorer\Internet Explorer\bin\Debug\Internet Explorer.exe.config
+D:\C# Projects\Internet Explorer\Internet Explorer\bin\Debug\Internet Explorer.exe
+D:\C# Projects\Internet Explorer\Internet Explorer\bin\Debug\Internet Explorer.pdb
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\Debug\Internet Explorer.csprojResolveAssemblyReference.cache
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\Debug\Internet_Explorer.Main.resources
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\Debug\Internet_Explorer.Properties.Resources.resources
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\Debug\Internet Explorer.csproj.GenerateResource.Cache
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\Debug\Internet Explorer.csproj.CoreCompileInputs.cache
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\Debug\Internet Explorer.exe
+D:\C# Projects\Internet Explorer\Internet Explorer\obj\Debug\Internet Explorer.pdb
